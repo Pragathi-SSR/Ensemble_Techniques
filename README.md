@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ### Telecom customer churn prediction
 
 
-                                                                       ![image](https://github.com/user-attachments/assets/1f7ffd54-1d8d-4bcb-aadd-82a4a1d32710)
+![image](https://github.com/user-attachments/assets/1f7ffd54-1d8d-4bcb-aadd-82a4a1d32710)
 
 
 
